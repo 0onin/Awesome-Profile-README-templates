@@ -1,1 +1,1 @@
-![banner]([https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg](https://api.yimian.xyz/img?type=moe&size=1920x1080&R18=true)https://api.yimian.xyz/img?type=moe&size=1920x1080&R18=true)
+![banner](https://api.yimian.xyz/img?type=moe&size=1920x1080&R18=true)
